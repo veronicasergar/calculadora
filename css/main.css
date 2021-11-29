@@ -1,0 +1,27 @@
+html{
+  size: auto;
+
+}
+
+.texto {
+  width: 210pt;
+  height: 100pt;
+  resize: none;
+}
+
+.calculator{
+  alignment: center;
+}
+
+button
+{
+  width: 40pt;
+  border: #222222;
+  text-align: center;
+  background: cadetblue;
+  font-family: Arial;
+  font-size: 30px;;
+
+}
+
+
